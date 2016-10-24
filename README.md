@@ -5,4 +5,4 @@ Aces Up (also known as Idiot's Delight, Once in a Lifetime, Ace of the Pile, Roc
 
 https://github.com/okwme/aces-up-src
 
-![img] (https://okw.me.github.io/aces-up/src/img/screenshot.png)
+![img] (https://okwme.github.io/aces-up/static/img/screenshot.png)
